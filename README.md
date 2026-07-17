@@ -12,4 +12,5 @@ Open `index.html` directly in a browser.
 - `styles.css` - visual design
 - `main.js` - small interactive signal demo
 - `scripts/` - Python demo scripts kept together in one place
+- `pages/` - a few tiny standalone HTML pages
 - `random_project.md` - extra notes and examples

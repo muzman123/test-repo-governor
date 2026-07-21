@@ -8,3 +8,4 @@ This repo now has a few kinds of small pages:
 - Planning helpers: `mini-roadmap.html`, `scratch-pad.html`, `tiny-retro.html`
 
 Keep future pages short, linked from the homepage, and easy to rename.
+Use snippets when a page needs a repeated chunk instead of writing it again.

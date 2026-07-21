@@ -13,4 +13,5 @@ Open `index.html` directly in a browser.
 - `main.js` - small interactive signal demo
 - `scripts/` - Python demo scripts kept together in one place
 - `pages/` - tiny standalone HTML pages linked from the homepage
+- `boilerplate/` - copy-ready starter files for new pages
 - `random_project.md` - extra notes and examples

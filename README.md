@@ -19,4 +19,5 @@ Use `boilerplate/basic-page.html` as a copy-ready starting point, then add the n
 - `pages/` - tiny standalone HTML pages linked from the homepage
 - `boilerplate/` - copy-ready starter files for new pages
 - `notes/` - small project notes and reminders
+- `snippets/` - small HTML chunks for quick page building
 - `random_project.md` - extra notes and examples

@@ -14,4 +14,5 @@ Open `index.html` directly in a browser.
 - `scripts/` - Python demo scripts kept together in one place
 - `pages/` - tiny standalone HTML pages linked from the homepage
 - `boilerplate/` - copy-ready starter files for new pages
+- `notes/` - small project notes and reminders
 - `random_project.md` - extra notes and examples
